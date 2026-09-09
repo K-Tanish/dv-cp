@@ -39,5 +39,5 @@ The application has been rebuilt using a modular React + TypeScript architecture
    ```
 
 ---
-*Developed with a pixel-perfect Spotify design language system. Watermark by ~Tanish_K.*
+*Developed with a pixel-perfect Spotify design by ~Tanish_K.*
 
